@@ -1,1 +1,2 @@
 contenido inicial ficher 1
+contenido posterioir a clonar
